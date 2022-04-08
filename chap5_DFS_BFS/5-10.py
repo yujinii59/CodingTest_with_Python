@@ -25,7 +25,7 @@ def dfs(x, y):
     return False
 
 
-# 모든 노드(위치)에 대해ㅏ여 음료수 채우기
+# 모든 노드(위치)에 대하여 음료수 채우기
 result = 0
 for i in range(n):
     for j in range(m):
